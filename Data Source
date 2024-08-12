@@ -1,0 +1,1 @@
+The dataset used for this project is the MNIST dataset, which is a large database of handwritten digits commonly used for training various image processing systems. The MNIST dataset is available through various sources, including the 'keras' library in Python.
