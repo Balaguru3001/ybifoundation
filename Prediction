@@ -1,0 +1,3 @@
+sample_image = X_test[0].reshape(1, 28, 28, 1)
+predicted_digit = model.predict_classes(sample_image)
+print(f"Predicted digit: {predicted_digit[0]}")
