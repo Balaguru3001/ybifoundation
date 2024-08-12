@@ -1,0 +1,3 @@
+sns.countplot(y_train)
+plt.title("Distribution of Digits in Training Data")
+plt.show()
