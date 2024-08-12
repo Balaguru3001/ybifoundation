@@ -1,0 +1,1 @@
+The goal of this project is to build a machine learning model that can accurately recognize and classify handwritten digits (0-9) from images. This project aims to use image data, process it, and then apply a classification algorithm to predict the correct digit.
